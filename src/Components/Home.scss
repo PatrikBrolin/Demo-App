@@ -1,0 +1,23 @@
+.container-wrapper{
+  width: 80%;
+  height: 100vh;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  p{
+  margin-bottom: 10px;
+
+  }
+  h2{
+    margin: 40px;
+  }
+  button{
+    padding: 10px 20px;
+    margin: 10px;
+    color: white;
+    background: linear-gradient(to left, purple, pink);
+    border-radius: 5px;
+  }
+}
